@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4c0056/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 撰
+  hash: sha256:6c5ae9564292c109a98624cf08856367b16e5d2522cee022cc1426a225739c9a
+metadata:
+  title: 歐陽行周文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 08:19:22.644963'
+  source:
+    repository: kanripo
+    path: KR4c0056/KR4c0056_000.txt
+hash: sha256:2533a2a89700de9b455aa23cd111a6a82cbd92a972db9100e2bcde876e8e344e
