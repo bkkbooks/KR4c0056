@@ -1306,6 +1306,7 @@ markers:
   - {type: line-break, offset: 3541, content: '', id: KR4c0056_SBCK_005-9b01}
   - {type: indent, offset: 3541, content: 　　　, id: KR4c0056_krp_005-bkkind171}
   - {type: punctuation, offset: 3545, content: (, id: KR4c0056_krp_005-bkkpn1}
+  - {type: voice, offset: 3545, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 3547, content: ), id: KR4c0056_krp_005-bkkpn2}
   - {type: 'kr:newline', offset: 3547, content: '
 
@@ -1829,6 +1830,7 @@ markers:
   - {type: variant, offset: 4924, length: 1, content: 緊, WYG: 𦂳}
   - {type: variant, offset: 4930, length: 1, content: 緊, WYG: 𦂳}
   - {type: punctuation, offset: 4931, content: (, id: KR4c0056_krp_005-bkkpn3}
+  - {type: voice, offset: 4931, length: 10, name: note, id: n2}
   - {type: variant, offset: 4934, length: 1, content: 緊, WYG: 𦂳}
   - {type: punctuation, offset: 4936, content: /, id: KR4c0056_krp_005-bkkpn4}
   - {type: variant, offset: 4938, length: 1, content: 于, WYG: 於望之最非望之最無與焉望之最次於}
@@ -2013,4 +2015,4 @@ markers:
   - {type: variant, offset: 5422, length: 0, content: '', WYG: 欽定四庫全書歐陽行周文集巻六唐歐陽詹撰}
   - {type: page-break, offset: 5422, content: '', id: KR4c0056_WYG_006-1a, image: WYG1078/WYG1078-0231a.png}
   back: []
-hash: sha256:5f4bda06e8554380a7ac8801d11618de3c8396d56a2df4c20a0b7b84151766a8
+hash: sha256:40e5af51c113a185058d8f48bdfc46870f0b8cb20409ef146980c0bb3bf91eeb
